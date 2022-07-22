@@ -22,7 +22,7 @@ This repository contains a list of awesome sources that helped me with my **2 ye
 
 ## Data Preparation and Feature Engineering
 
-* [Feature Engineering for Machine Learning](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241) - A great in depth book on specific topic of feature engineering by Amazon and Google super data scientist [Alice Zheng](https://alicezheng.org/) and [Amanda Casari](https://www.linkedin.com/in/amcasari/)
+* [Feature Engineering for Machine Learning](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241) - A great in depth book on specific topic of feature engineering by Amazon and Google super data scientist [Alice Zheng](https://alicezheng.org/) and [Amanda Casari.](https://www.linkedin.com/in/amcasari/)
 
 ## Python
 
@@ -36,6 +36,6 @@ This repository contains a list of awesome sources that helped me with my **2 ye
 
 ## My Presentations and Videos
 
-* [Practical Statistics for Data Scientists](/docs/presentations)
+* [Practical Statistics for Data Scientists](/docs/presentations/#Practical-Statistics-for-Data-Scientists)
 
 ## Some Useful but Unsorted Resources
