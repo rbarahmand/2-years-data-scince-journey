@@ -36,6 +36,6 @@ This repository contains a list of awesome sources that helped me with my **2 ye
 
 ## My Presentations and Videos
 
-* [Practical Statistics for Data Scientists](/docs/presentations/#Practical-Statistics-for-Data-Scientists)
+* [Practical Statistics for Data Scientists](/docs/presentations#practical-statistics-for-data-scientists)
 
 ## Some Useful but Unsorted Resources
