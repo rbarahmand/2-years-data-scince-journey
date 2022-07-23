@@ -18,7 +18,7 @@ This repository contains a list of awesome sources that helped me with my **2 ye
 
 ## Statistics, Probability and, Linear Algebra
 
-* [Practical Statistics for Data Scientists](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential-dp-149207294X/dp/149207294X/ref=dp_ob_title_bk) - Good introductory book on statistics by Bruce brothers owner of [statistics.com](https://www.statistics.com/), the main advantage of this book is summarizing key concepts and using best python and R libraries to create awesome visualizations and implementing statistical methods. I have also presented this book [check it here.]()
+* [Practical Statistics for Data Scientists](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential-dp-149207294X/dp/149207294X/ref=dp_ob_title_bk) - Good introductory book on statistics by Bruce brothers owner of [statistics.com](https://www.statistics.com/), the main advantage of this book is summarizing key concepts and using best python and R libraries to create awesome visualizations and implementing statistical methods. I have also presented this book [check it here.](/docs/presentations#practical-statistics-for-data-scientists)
 
 ## Data Preparation and Feature Engineering
 
