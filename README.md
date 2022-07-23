@@ -26,6 +26,8 @@ This repository contains a list of awesome sources that helped me with my **2 ye
 
 ## Python
 
+* [Python for Data Science](https://github.com/rbarahmand/python-for-data-science) - A series of notebooks created by me in order to learn python basics and important libraries for data science tasks.
+
 ## R
 
 ## Interesting Challenges and Problems
