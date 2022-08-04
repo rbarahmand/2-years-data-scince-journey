@@ -12,7 +12,7 @@ Stay tuned for my other series of presentations! 😍.
 
 ### [Practical Statistics for Data Scientists](<https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential-dp-149207294X/dp/149207294X/ref=dp_ob_title_bk>)
 
-* [Chapter 01 - Exploratory Data Analysis](/docs/presentations/CH01%20-%20Practical%20Statistics%20For%20Data%20Scientists.pdf)
+* [Chapter 01 - Exploratory Data Analysis](/CH01-Practical-Statistics-For-Data-Scientists.pdf)
 
 ## Acknowledgments
 

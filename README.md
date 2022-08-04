@@ -12,7 +12,8 @@ This repository contains a list of awesome sources that helped me with my **2 ye
 |-|-|-|
 |[➗ Mathematical Foundation](#Statistics,-Probability-and,-Linear-Algebra) |[📅 Data Preparation](#Data-Preparation-and-Feature-Engineering) | [💻 Python](#Python)|
 |[📉 R](#R)|[📺 Presentations](#My-Presentations-and-Videos)|[🥊 Challenges](#Interesting-Challenges-and-Problems)|
-| [♾️ Kaggle](#Interesting-Challenges-and-Problems) | [📊 Visualization](#Visualization-libraries) | [🧹 Other](#Some-Useful-but-Unsorted-Resources)
+| [♾️ Kaggle](#Interesting-Challenges-and-Problems) | [📊 Visualization](#Visualization-libraries) | [🧹 Other](#Some-Useful-but-Unsorted-Resources)|
+[📝 MindMaps And Notes](/docs/mindmaps-notes/)
 
 # Main Content
 
