@@ -16,7 +16,7 @@ Stay tuned for my other series of mindmaps! 😍
 
 This is my own modified version of CRISP method developed by IBM. I made it for data scientist with practical approach in mind
 
-### **Statistics for Data Science MindMap** [[PDF]](Statistics-for-Data-Science.pdf)
+### **Statistics for Data Science MindMap** [[PDF]](Statistics-For-Data-Science.pdf)
 
 I have created this mindmap in order to make the relations of statistic topics clear with the famous data science.
 
